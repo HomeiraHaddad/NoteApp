@@ -1,0 +1,10 @@
+.div-color{
+    width:25px;
+    height:25px;
+    border-radius:100%;
+    border: thin solid rgb(71, 68, 68);
+    margin: 2px;
+}
+.div-color:hover{
+    cursor: pointer;
+}

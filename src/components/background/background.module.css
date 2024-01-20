@@ -1,0 +1,13 @@
+.bg{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    background: url('/src/assets/images/universe.jfif') no-repeat center;
+    background-size:cover;
+    background-attachment: fixed;
+    font-family: 'Trinton';
+    opacity: 0.8;
+    z-index: 10;
+}
